@@ -1595,7 +1595,7 @@
 											variant: "ghost",
 											size: "icon",
 											className: "rounded-full border border-gray-600 text-gray-300 hover:bg-gray-700 hover:text-[#00e6e6] w-10 h-10 ml-2",
-											onClick: () => window.open("https://wa.me/923333065190?text=Aslam%20o%20alikum", "_blank"),
+											onClick: () => window.open("https://wa.me/923333065190?text=Hi%20Farhan!%20I%20just%20visited%20your%20portfolio%20website%20and%20I'm%20interested%20in%20discussing%20a%20project%20with%20you.%20Can%20you%20please%20share%20more%20details%20about%20your%20services%20and%20availability%3F", "_blank"),
 											children: (0, a.jsx)(S, {
 												className: "h-5 w-5"
 											})
@@ -1609,7 +1609,7 @@
 											variant: "ghost",
 											size: "icon",
 											className: "rounded-full border border-gray-600 text-gray-300 hover:bg-gray-700 hover:text-[#00e6e6] w-10 h-10 ml-2",
-											onClick: () => window.open("https://wa.me/923332290604?text=Aslam%20o%20alikum", "_blank"),
+											onClick: () => window.open("https://wa.me/923332290604?text=Hi%20Farhan!%20I%20just%20visited%20your%20portfolio%20website%20and%20I'm%20interested%20in%20discussing%20a%20project%20with%20you.%20Can%20you%20please%20share%20more%20details%20about%20your%20services%20and%20availability%3F", "_blank"),
 											children: (0, a.jsx)(S, {
 												className: "h-5 w-5"
 											})
