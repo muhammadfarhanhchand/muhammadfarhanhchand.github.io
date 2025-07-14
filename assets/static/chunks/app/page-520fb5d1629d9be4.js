@@ -1366,6 +1366,7 @@
 												type: "text",
 												id: "firstName",
 												name: "firstName",
+												required: !0,
 												className: "w-full px-4 py-3 border border-gray-600 rounded-lg focus:ring-2 focus:ring-[#00e6e6] focus:border-transparent bg-gray-700 text-white",
 												placeholder: "John"
 											})]
@@ -1378,6 +1379,7 @@
 												type: "text",
 												id: "lastName",
 												name: "lastName",
+												required: !0,
 												className: "w-full px-4 py-3 border border-gray-600 rounded-lg focus:ring-2 focus:ring-[#00e6e6] focus:border-transparent bg-gray-700 text-white",
 												placeholder: "Doe"
 											})]
@@ -1404,6 +1406,8 @@
 											type: "tel",
 											id: "phone",
 											name: "phone",
+											maxlength:"15",
+											required: !0,
 											className: "w-full px-4 py-3 border border-gray-600 rounded-lg focus:ring-2 focus:ring-[#00e6e6] focus:border-transparent bg-gray-700 text-white",
 											placeholder: "+1 (555) 123-4567"
 										})]
@@ -1415,6 +1419,7 @@
 										}), (0, a.jsxs)("select", {
 											id: "subject",
 											name: "subject",
+											required: !0,
 											className: "w-full px-4 py-3 border border-gray-600 rounded-lg focus:ring-2 focus:ring-[#00e6e6] focus:border-transparent bg-gray-700 text-white",
 											children: [(0, a.jsx)("option", {
 												value: "",
@@ -1451,16 +1456,17 @@
 										})]
 									}), (0, a.jsxs)("div", {
 										className: "flex items-center",
-										children: [(0, a.jsx)("input", {
-											id: "privacy",
-											name: "privacy",
-											type: "checkbox",
-											className: "h-4 w-4 text-[#00e6e6] focus:ring-[#00e6e6] border-gray-600 rounded"
-										}), (0, a.jsx)("label", {
-											htmlFor: "privacy",
-											className: "ml-2 block text-sm text-gray-300",
-											children: "I agree to the privacy policy and terms of service"
-										})]
+										// children: [(0, a.jsx)("input", {
+										// 	id: "privacy",
+										// 	name: "privacy",
+										// 	type: "checkbox",
+										// 	className: "h-4 w-4 text-[#00e6e6] focus:ring-[#00e6e6] border-gray-600 rounded"
+										// }), (0, a.jsx)("label", {
+										// 	htmlFor: "privacy",
+										// 	className: "ml-2 block text-sm text-gray-300",
+										// 	children: "I agree to the privacy policy and terms of service"
+										// })]
+
 									}), (0, a.jsx)(d, {
 										type: "submit",
 										disabled: r,
