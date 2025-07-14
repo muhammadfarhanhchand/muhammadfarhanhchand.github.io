@@ -801,7 +801,7 @@
 								category: "Mobile Application Development",
 								description: "Designed and developed a custom framework enabling clients to integrate the Golootlo SDK seamlessly into their applications, improving integration efficiency and client onboarding. Implemented Natural Language Processing (NLP) for advanced voice search and voice-based ordering, enhancing user engagement and accessibility. Optimized the app's codebase, reducing crash rates by 60% and improving overall performance and stability. Managed and maintained existing mobile applications, ensuring timely updates and high-quality user experiences.",
 								// image: "/placeholder.svg?height=300&width=400",
-								image:"./images/golootlo.png?height=300&width=400",
+								image:"./images/golootlo.webp",
 								technologies: ["SDK Integration", "NLP", "Voice Search", "Performance Optimization", "Mobile App Maintenance"],
 								features: ["Seamless SDK integration framework", "Advanced voice search and ordering", "60% crash rate reduction", "Timely app updates and maintenance"],
 								links: {
@@ -813,7 +813,7 @@
 								title: "KFH Jazeel Banking",
 								category: "Mobile Banking Application",
 								description: "Developed and maintained the KFH Jazeel Banking mobile application, focusing on secure transactions, user experience, and integration with core banking systems. Implemented features for account management, fund transfers, bill payments, and biometric authentication. Ensured compliance with banking security standards and regulatory requirements.",
-								image:"./images/kfh_online.png",
+								image:"./images/kfh_online.webp",
 								technologies: ["iOS", "Android", "Swift", "Kotlin", "Security", "API Integration", "Biometric Authentication"],
 								features: ["Secure transaction processing", "Account management", "Fund transfers", "Bill payments", "Biometric authentication", "Regulatory compliance"],
 								links: {
@@ -825,7 +825,7 @@
 								title: "KFH Cooperate",
 								category: "Corporate Banking Solution",
 								description: "Led the development of KFH Cooperate, a comprehensive mobile application for corporate banking clients. Focused on delivering robust features for corporate finance, trade finance, and treasury management. Collaborated with business analysts to translate complex requirements into intuitive mobile interfaces and ensured seamless integration with enterprise systems.",
-								image: "./images/kfh_cooperate.png",
+								image: "./images/kfh_cooperate.webp",
 								technologies: ["iOS", "Android", "Enterprise Mobility", "Corporate Finance", "Trade Finance", "Treasury Management", "System Integration"],
 								features: ["Corporate finance features", "Trade finance capabilities", "Treasury management tools", "Intuitive corporate interfaces", "Seamless enterprise system integration"],
 								links: {
